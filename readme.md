@@ -1,5 +1,3 @@
-![logo](ico.ico)
-
 <center>Bing Wallpaper Setter</center>
 
 ---
