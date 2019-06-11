@@ -1,6 +1,4 @@
-<center>Bing Wallpaper Setter</center>
-
----
+## Bing Wallpaper Setter
 
 Catch the Today’s wallpaper from bing.com, and set as wallpaper
 
